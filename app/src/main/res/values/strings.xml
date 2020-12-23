@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBinding kotlin</string>
+    <string name="email">Email</string>
+</resources>
